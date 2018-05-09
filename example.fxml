@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import org.kordamp.ikonli.javafx.FontIcon?>
+<?import org.kordamp.ikonli.javafx.StackedFontIcon?>
+
+
+<Button mnemonicParsing="false" text="Button" xmlns="http://javafx.com/javafx/9.0.1" xmlns:fx="http://javafx.com/fxml/1">
+   <graphic>
+      <StackedFontIcon>
+         <children>
+            <FontIcon iconColor="#5e1212" iconLiteral="fa-cart-arrow-down" iconSize="32" selectionEnd="0" visible="false" />
+            <FontIcon iconColor="#5e1212" iconLiteral="fa-cart-plus" iconSize="32" selectionEnd="0" />
+         </children>
+      </StackedFontIcon>
+   </graphic>
+</Button>
