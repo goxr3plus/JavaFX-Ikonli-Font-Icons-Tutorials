@@ -40,4 +40,5 @@ If you are using [Gluon SceneBuilder](http://gluonhq.com/products/scene-builder/
 
 # Check the Awesome Youtube Tutorial
 
+[![Youtube Tutorial](http://img.youtube.com/vi/o5UewXgUiYY/0.jpg)](https://www.youtube.com/watch?v=o5UewXgUiYY)
 
